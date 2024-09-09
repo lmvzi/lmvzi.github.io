@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://lmvzi.github.io/sitemap/sitemap.txt
